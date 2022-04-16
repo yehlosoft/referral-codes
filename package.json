@@ -1,10 +1,10 @@
 {
-  "name": "referral-codes",
+  "name": "referral-codes-y",
   "version": "2.0.1",
   "description": "High performance Referral/Promo/Voucher code generator",
   "main": "index.js",
-  "repository": "git@github.com:zack37/referral-codes.git",
-  "author": "Zack Smith <zack.t.smith37@gmail.com>",
+  "repository": "https://github.com/yehlosoft/referral-codes.git",
+  "author": "Rakesh <rbboy39@gmail.com>",
   "license": "MIT",
   "keywords": [
     "referral",
